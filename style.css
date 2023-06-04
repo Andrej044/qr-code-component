@@ -11,6 +11,15 @@
   --dark-blue: hsl(218, 44%, 22%);
 }
 
+html{
+  font-size: 10px;
+  font-family: "Outfit", sans-serif;
+  font-weight: normal;
+}
+
+body{
+  background: var(--lightGray);
+}
 
 
 
