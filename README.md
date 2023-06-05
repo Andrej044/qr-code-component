@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![Alt text](/images/screenshot.png?raw=true "Project screenshot")
 
 ### Links
 
