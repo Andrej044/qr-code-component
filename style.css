@@ -9,6 +9,7 @@
   --lightGray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
+  --dark-navy: #1F314F;
 }
 
 html{
@@ -38,6 +39,14 @@ body{
 }
 .qrcode__img{
   border-radius: 1rem;
+}
+.qrcode__title {
+  margin-top: 2.4rem;
+  text-align: center;
+  line-height: 2.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color:var(--dark-navy);
 }
 
 /* footer styles with link to frontend mentor website  */
